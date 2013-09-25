@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mdictpro> 
+	<name>Dữ liệu từ điển MDictPro</name>
+	<version>1.0</version>
+	<description>Chứa thông tin dữ liệu từ điển MDictPro</description>
+
+	<!-- Dữ liệu từ điển cơ bản -->
+	<data>
+		<id>1000</id>
+		<name>Từ điển anh anh</name>
+		<version>1.0</version>
+		<word-num>145600</word-num>
+		<size>37976320</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienanhanh.mdp</link>
+	</data>
+	<data>
+		<id>1001</id>
+		<name>Từ điển anh việt</name>
+		<version>1.0</version>
+		<word-num>145600</word-num>
+		<size>16762259</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienanhviet.mdp</link>
+	</data>
+	<data>
+		<id>1100</id>
+		<name>Từ điển kỹ thuật anh việt</name>
+		<version>1.0</version>
+		<word-num>253200</word-num>
+		<size>32251797</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienkythuat_ev.mdp</link>
+	</data>
+	<data>
+		<id>1101</id>
+		<name>Từ điển kỹ thuật việt anh</name>
+		<version>1.0</version>
+		<word-num>237000</word-num>
+		<size>29103244</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienkythuat_ve.mdp</link>
+	</data>
+	<data>
+		<id>1002</id>
+		<name>Từ điển việt anh</name>
+		<version>1.0</version>
+		<word-num>75300</word-num>
+		<size>6332596</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienvietanh.mdp</link>
+	</data>
+	<data>
+		<id>1003</id>
+		<name>Từ điển việt việt</name>
+		<version>1.0</version>
+		<word-num>30000</word-num>
+		<size>3535218</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienvietviet.mdp</link>
+	</data>
+
+	<!-- Dữ liệu từ điển ngữ pháp -->
+	<data>
+		<id>1300</id>
+		<name>Ngữ pháp tiếng anh cơ bản</name>
+		<version>1.0</version>
+		<word-num>87</word-num>
+		<size>237325</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/nguphaptienganhcoban.mdp</link>
+	</data>
+	<data>
+		<id>1301</id>
+		<name>Ngữ pháp tiếng anh thực hành</name>
+		<version>1.0</version>
+		<word-num>274</word-num>
+		<size>447219</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/nguphaptienganhthuchanh.mdp</link>
+	</data>
+	<data>
+		<id>1302</id>
+		<name>Quy tắc phát âm</name>
+		<version>1.1</version>
+		<word-num>45</word-num>
+		<size>1109537</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/quytacphatam.mdp</link>
+	</data>
+
+	<!-- Dữ liệu từ điển chuyên ngành -->
+	<data>
+		<id>1200</id>
+		<name>Từ điển toán học</name>
+		<version>1.0</version>
+		<word-num>5000</word-num>
+		<size>3535219</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudientoanhoc.mdp</link>
+	</data>
+	<data>
+		<id>1201</id>
+		<name>Từ điển kinh tế anh việt</name>
+		<version>1.0</version>
+		<word-num>9000</word-num>
+		<size>1407314</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienkinhte(ev).mdp</link>
+	</data>
+	<data>
+		<id>1202</id>
+		<name>Từ điển kinh tế việt anh</name>
+		<version>1.0</version>
+		<word-num>6000</word-num>
+		<size>862300</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienkinhte(ve).mdp</link>
+	</data>
+	<data>
+		<id>1204</id>
+		<name>Từ điển thương mại</name>
+		<version>1.0</version>
+		<word-num>70000</word-num>
+		<size>7692219</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienthuongmai(e-v).mdp</link>
+	</data>
+	<data>
+		<id>1205</id>
+		<name>Từ điển xây dựng</name>
+		<version>1.0</version>
+		<word-num>22500</word-num>
+		<size>4030473</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienxaydung.mdp</link>
+	</data>
+	<data>
+		<id>1206</id>
+		<name>Từ điển vật lý</name>
+		<version>1.0</version>
+		<word-num>5000</word-num>
+		<size>516198</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mdictpro.googlecode.com/svn/trunk/data/tudienvatly.mdp</link>
+	</data>
+
+</mdictpro>
+
