@@ -150,7 +150,7 @@
 		<name>Từ điển thuốc</name>
 		<version>1.0</version>
 		<word-num>1189</word-num>
-		<size>4035117</size>
+		<size>4035119</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienthuoc.mdp</link>
 	</data>
@@ -159,7 +159,7 @@
 		<name>Từ điển y khoa</name>
 		<version>1.0</version>
 		<word-num>25868</word-num>
-		<size>1254394</size>
+		<size>1254434</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienykhoa.mdp</link>
 	</data>
@@ -168,7 +168,7 @@
 		<name>Từ điển điện</name>
 		<version>1.0</version>
 		<word-num>3246</word-num>
-		<size>186125</size>
+		<size>186136</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudiendien.mdp</link>
 	</data>
@@ -177,7 +177,7 @@
 		<name>Từ điển chứng khoán (anh-anh)</name>
 		<version>1.0</version>
 		<word-num>8333</word-num>
-		<size>1283131</size>
+		<size>1283248</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienchungkhoan(ee).mdp</link>
 	</data>
@@ -186,7 +186,7 @@
 		<name>Từ điển chứng khoán (anh-việt)</name>
 		<version>1.0</version>
 		<word-num>1241</word-num>
-		<size>399004</size>
+		<size>398893</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienchungkhoan(ev).mdp</link>
 	</data>
@@ -195,7 +195,7 @@
 		<name>Từ điển hàng hải</name>
 		<version>1.0</version>
 		<word-num>2176</word-num>
-		<size>106349</size>
+		<size>106356</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienhanghai.mdp</link>
 	</data>
@@ -204,7 +204,7 @@
 		<name>Từ điển kinh tế biển (anh-anh)</name>
 		<version>1.0</version>
 		<word-num>3807</word-num>
-		<size>621446</size>
+		<size>621375</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkinhtebien(ee).mdp</link>
 	</data>
@@ -213,7 +213,7 @@
 		<name>Từ điển kinh tế biển (anh-việt)</name>
 		<version>1.0</version>
 		<word-num>4925</word-num>
-		<size>451843</size>
+		<size>451871</size>
 		<public-date>2013-09-30</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkinhtebien(ev).mdp</link>
 	</data>
