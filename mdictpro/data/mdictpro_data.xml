@@ -36,9 +36,9 @@
 	<data>
 		<id>1101</id>
 		<name>Từ điển kỹ thuật việt anh</name>
-		<version>1.0</version>
+		<version>1.1</version>
 		<word-num>237000</word-num>
-		<size>29103244</size>
+		<size>29103205</size>
 		<public-date>2013-05-19</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkythuat_ve.mdp</link>
 	</data>
