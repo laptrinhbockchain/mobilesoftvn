@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mdictpro> 
+	<name>Data for EDictPro</name>
+	<version>1.0</version>
+	<description>Data for EDictPro</description>
+
+	<!-- Dữ liệu từ điển cơ bản -->
+	<data>
+		<id>1000</id>
+		<name>Wordnet Data</name>
+		<version>1.0</version>
+		<word-num>145600</word-num>
+		<size>37976320</size>
+		<public-date>2013-05-19</public-date>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/wordnet_dictionary.mdp</link>
+	</data>
+
+</mdictpro>
+
