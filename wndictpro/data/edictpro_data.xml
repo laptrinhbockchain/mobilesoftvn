@@ -15,6 +15,15 @@
 		<public-date>2013-05-19</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/wordnet_dictionary.mdp</link>
 	</data>
+	<data>
+		<id>2001</id>
+		<name>Babylon Picture Dictionary</name>
+		<version>1.0</version>
+		<word-num>3450</word-num>
+		<size>54395210</size>
+		<public-date>2014-01-10</public-date>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/wordnet_dictionary.mdp</link>
+	</data>
 
 </mdictpro>
 
