@@ -37,10 +37,19 @@
 		<id>2003</id>
 		<name>American Idioms 4.6</name>
 		<version>1.0</version>
-		<word-num>123000</word-num>
+		<word-num>6222</word-num>
 		<size>1223691</size>
 		<public-date>2014-01-11</public-date>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/american_idioms_v4.6.mdp</link>
+	</data>
+	<data>
+		<id>2004</id>
+		<name>Dictionary of World History</name>
+		<version>1.0</version>
+		<word-num>4100</word-num>
+		<size>2168312</size>
+		<public-date>2014-01-11</public-date>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/oxford dictionary of world history.mdp</link>
 	</data>
 
 </mdictpro>
