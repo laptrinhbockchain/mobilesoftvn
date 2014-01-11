@@ -13,7 +13,7 @@
 		<word-num>145600</word-num>
 		<size>37976320</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/wordnet_dictionary.mdp</link>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/wordnet_dictionary.mdp</link>
 	</data>
 	<data>
 		<id>2001</id>
@@ -22,7 +22,16 @@
 		<word-num>3450</word-num>
 		<size>54395210</size>
 		<public-date>2014-01-10</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/wordnet_dictionary.mdp</link>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/babylon_picture_dictionary.mdp</link>
+	</data>
+	<data>
+		<id>2002</id>
+		<name>Babylon English Dictionary</name>
+		<version>1.0</version>
+		<word-num>123000</word-num>
+		<size>8259366</size>
+		<public-date>2014-01-10</public-date>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/datababylon_english.mdp</link>
 	</data>
 
 </mdictpro>
