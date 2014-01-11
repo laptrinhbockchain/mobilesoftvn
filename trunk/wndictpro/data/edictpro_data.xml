@@ -31,7 +31,16 @@
 		<word-num>123000</word-num>
 		<size>8259366</size>
 		<public-date>2014-01-10</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/datababylon_english.mdp</link>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/datababylon_english.mdp</link>
+	</data>
+	<data>
+		<id>2003</id>
+		<name>American Idioms 4.6</name>
+		<version>1.0</version>
+		<word-num>123000</word-num>
+		<size>1223691</size>
+		<public-date>2014-01-11</public-date>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/american_idioms_v4.6.mdp</link>
 	</data>
 
 </mdictpro>
