@@ -31,7 +31,7 @@
 			<word-num>123000</word-num>
 			<size>8259366</size>
 			<public-date>2014-01-10</public-date>
-			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/datababylon_english.mdp</link>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/babylon_english.mdp</link>
 		</data>
 		<data>
 			<id>2003</id>
@@ -44,12 +44,21 @@
 		</data>
 		<data>
 			<id>2004</id>
-			<name>Dictionary of World History</name>
+			<name>World History Dictionary</name>
 			<version>1.0</version>
 			<word-num>4100</word-num>
 			<size>5853227</size>
 			<public-date>2014-01-11</public-date>
-			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/oxford dictionary of world history.mdp</link>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/world_history_dictionary.mdp</link>
+		</data>
+		<data>
+			<id>2005</id>
+			<name>Computer Dictionary</name>
+			<version>1.0</version>
+			<word-num>9630</word-num>
+			<size>1884946</size>
+			<public-date>2014-01-22</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/computer_dictionary.mdp</link>
 		</data>
 	</category>
 
