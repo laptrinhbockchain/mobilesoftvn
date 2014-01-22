@@ -1,56 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<mdictpro> 
+<edictpro> 
 	<name>Data for EDictPro</name>
 	<version>1.0</version>
-	<description>Data for EDictPro</description>
+	<description>All data for EDictPro</description>
 
-	<!-- Dữ liệu từ điển cơ bản -->
-	<data>
-		<id>1000</id>
-		<name>Wordnet Data</name>
-		<version>1.0</version>
-		<word-num>145600</word-num>
-		<size>37976320</size>
-		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/wordnet_dictionary.mdp</link>
-	</data>
-	<data>
-		<id>2001</id>
-		<name>Babylon Picture Dictionary</name>
-		<version>1.0</version>
-		<word-num>3450</word-num>
-		<size>54395210</size>
-		<public-date>2014-01-10</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/babylon_picture_dictionary.mdp</link>
-	</data>
-	<data>
-		<id>2002</id>
-		<name>Babylon English Dictionary</name>
-		<version>1.0</version>
-		<word-num>123000</word-num>
-		<size>8259366</size>
-		<public-date>2014-01-10</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/datababylon_english.mdp</link>
-	</data>
-	<data>
-		<id>2003</id>
-		<name>American Idioms 4.6</name>
-		<version>1.0</version>
-		<word-num>6222</word-num>
-		<size>1223691</size>
-		<public-date>2014-01-11</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/american_idioms_v4.6.mdp</link>
-	</data>
-	<data>
-		<id>2004</id>
-		<name>Dictionary of World History</name>
-		<version>1.0</version>
-		<word-num>4100</word-num>
-		<size>5853227</size>
-		<public-date>2014-01-11</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/oxford dictionary of world history.mdp</link>
-	</data>
+	<category name="English English Data">
+		<data>
+			<id>2000</id>
+			<name>Wordnet Data</name>
+			<version>1.0</version>
+			<word-num>147500</word-num>
+			<size>41303768</size>
+			<public-date>2013-05-19</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/wordnet_dictionary.mdp</link>
+		</data>
+		<data>
+			<id>2001</id>
+			<name>Babylon Picture Dictionary</name>
+			<version>1.0</version>
+			<word-num>3450</word-num>
+			<size>54395210</size>
+			<public-date>2014-01-10</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/babylon_picture_dictionary.mdp</link>
+		</data>
+		<data>
+			<id>2002</id>
+			<name>Babylon English Dictionary</name>
+			<version>1.0</version>
+			<word-num>123000</word-num>
+			<size>8259366</size>
+			<public-date>2014-01-10</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/datababylon_english.mdp</link>
+		</data>
+		<data>
+			<id>2003</id>
+			<name>American Idioms 4.6</name>
+			<version>1.0</version>
+			<word-num>6222</word-num>
+			<size>1223691</size>
+			<public-date>2014-01-11</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/american_idioms_v4.6.mdp</link>
+		</data>
+		<data>
+			<id>2004</id>
+			<name>Dictionary of World History</name>
+			<version>1.0</version>
+			<word-num>4100</word-num>
+			<size>5853227</size>
+			<public-date>2014-01-11</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/oxford dictionary of world history.mdp</link>
+		</data>
+	</category>
 
-</mdictpro>
+</edictpro>
 
