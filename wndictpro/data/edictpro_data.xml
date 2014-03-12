@@ -69,6 +69,15 @@
 			<public-date>2014-02-08</public-date>
 			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/gerry_vocab_teacher.mdp</link>
 		</data>
+		<data>
+			<id>2007</id>
+			<name>Britannica Concise Dictionary</name>
+			<version>1.0</version>
+			<word-num>30500</word-num>
+			<size>73972829</size>
+			<public-date>2014-03-12</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/britannica_concise_encyclopedi.mdp</link>
+		</data>
 	</category>
 
 </edictpro>
