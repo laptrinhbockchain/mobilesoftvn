@@ -78,6 +78,15 @@
 			<public-date>2014-03-12</public-date>
 			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/britannica_concise_encyclopedi.mdp</link>
 		</data>
+		<data>
+			<id>2008</id>
+			<name>Chemical Compound Dictionary</name>
+			<version>1.0</version>
+			<word-num>30000</word-num>
+			<size>87318999</size>
+			<public-date>2014-05-18</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/chemical_compound_dictionary.mdp</link>
+		</data>
 	</category>
 
 </edictpro>
