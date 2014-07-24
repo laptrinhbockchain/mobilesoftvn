@@ -20,5 +20,21 @@
 		</data>
 	</category>
 
+	<category>
+		<id>2</id>
+		<name>Viettel</name>
+		<description></description>
+
+		<data>
+			<id>1</id>
+			<name>Văn hóa</name>
+			<description></description>
+			<version>1.0</version>
+			<test-num>1000</test-num>
+			<public-date>2013-05-19</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhanh.mdp</link>
+		</data>
+	</category>
+
 </ittest>
 
