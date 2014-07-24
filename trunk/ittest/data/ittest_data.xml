@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ittest> 
+	<name>Information Technology Test</name>
+	<description></description>
+
+	<category>
+		<id>1</id>
+		<name>Giải pháp</name>
+		<description></description>
+
+		<data>
+			<id>1</id>
+			<name>Giải pháp nghiệp vụ</name>
+			<version>1.0</version>
+			<test-num>1000</test-num>
+			<public-date>2013-05-19</public-date>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhanh.mdp</link>
+		</data>
+	</category>
+
+</ittest>
+
