@@ -12,6 +12,7 @@
 		<data>
 			<id>1</id>
 			<name>Giải pháp nghiệp vụ</name>
+			<description></description>
 			<version>1.0</version>
 			<test-num>1000</test-num>
 			<public-date>2013-05-19</public-date>
