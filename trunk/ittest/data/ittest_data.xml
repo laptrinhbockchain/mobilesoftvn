@@ -16,7 +16,7 @@
 			<version>1.0</version>
 			<test-num>1000</test-num>
 			<public-date>2013-05-19</public-date>
-			<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhanh.mdp</link>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_ky_su_giai_phap_phan_mem.dat</link>
 		</data>
 	</category>
 
@@ -32,7 +32,7 @@
 			<version>1.0</version>
 			<test-num>1000</test-num>
 			<public-date>2013-05-19</public-date>
-			<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhanh.mdp</link>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_van_hoa_viettel.dat</link>
 		</data>
 		<data>
 			<id>11</id>
@@ -41,7 +41,7 @@
 			<version>1.0</version>
 			<test-num>1000</test-num>
 			<public-date>2013-05-19</public-date>
-			<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhanh.mdp</link>
+			<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_lich_su_viettel.dat</link>
 		</data>
 	</category>
 
