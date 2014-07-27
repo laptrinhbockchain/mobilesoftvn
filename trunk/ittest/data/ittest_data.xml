@@ -12,10 +12,11 @@
 		<data>
 			<id>1</id>
 			<name>Giải pháp nghiệp vụ</name>
-			<description>Đề thi giải pháp nghiệp vụ viettel năm 2014</description>
 			<version>1.0</version>
 			<test-num>1000</test-num>
+			<level-num>3</level-num>
 			<public-date>2013-05-19</public-date>
+			<description>Đề thi giải pháp nghiệp vụ viettel năm 2014</description>
 			<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_ky_su_giai_phap_phan_mem.dat</link>
 		</data>
 	</category>
@@ -28,19 +29,21 @@
 		<data>
 			<id>10</id>
 			<name>Văn hóa Viettel</name>
-			<description>Đề thi văn hóa viettel năm 2014</description>
 			<version>1.0</version>
 			<test-num>1000</test-num>
+			<level-num>3</level-num>
 			<public-date>2013-05-19</public-date>
+			<description>Đề thi văn hóa viettel năm 2014</description>
 			<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_van_hoa_viettel.dat</link>
 		</data>
 		<data>
 			<id>11</id>
 			<name>Lịch sử Viettel</name>
-			<description>Đề thi lịch sử viettel năm 2014</description>
 			<version>1.0</version>
 			<test-num>1000</test-num>
+			<level-num>3</level-num>
 			<public-date>2013-05-19</public-date>
+			<description>Đề thi lịch sử viettel năm 2014</description>
 			<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_lich_su_viettel.dat</link>
 		</data>
 	</category>
