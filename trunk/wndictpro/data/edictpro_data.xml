@@ -90,10 +90,10 @@
 		<data>
 			<id>2009</id>
 			<name>Chemical Dictionary</name>
-			<version>1.0</version>
+			<version>1.1</version>
 			<word-num>8000</word-num>
-			<size>1598237</size>
-			<public-date>2014-10-10</public-date>
+			<size>1606192</size>
+			<public-date>2014-10-11</public-date>
 			<link>http://mobilesoftvn.googlecode.com/svn/trunk/wndictpro/data/chemistry_dictionary.mdp</link>
 		</data>
 	</category>
