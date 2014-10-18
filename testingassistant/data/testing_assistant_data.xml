@@ -1,20 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<appdata> 
+<testing-assistant> 
 	<name>Testing Assistant Data</name>
 	<description></description>
 
-	<data>
+	<app-data>
 		<id>1</id>
-		<name>Information Technology Testing</name>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/information_technology_data.xml</link>
-	</data>
+		<name>Information Technology Data</name>
+		
+		<category>
+			<id>1</id>
+			<name>Giải pháp</name>
+			<description></description>
 
-	<data>
+			<data>
+				<id>1</id>
+				<name>Giải pháp phần mềm</name>
+				<version>1.0</version>
+				<test-num>1314</test-num>
+				<level-num>3</level-num>
+				<public-date>2014-07-28</public-date>
+				<description>Đề thi giải pháp phần mềm Viettel năm 2014</description>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_ky_su_giai_phap_phan_mem.dat</link>
+			</data>
+		</category>
+	</app-data>
+
+	<app-data>
 		<id>2</id>
-		<name>Toeic Testing</name>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/toeic_data.xml</link>
-	</data>
+		<name>Viettel</name>
+		
+		<category>
+			<id>2</id>
+			<name>Văn hóa/Lich sử</name>
+			<description></description>
 
-</appdata>
+			<data>
+				<id>10</id>
+				<name>Văn hóa Viettel</name>
+				<version>1.0</version>
+				<test-num>100</test-num>
+				<level-num>3</level-num>
+				<public-date>2014-07-28</public-date>
+				<description>Đề thi văn hóa Viettel năm 2014</description>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_van_hoa_viettel.dat</link>
+			</data>
+			<data>
+				<id>11</id>
+				<name>Lịch sử Viettel</name>
+				<version>1.0</version>
+				<test-num>100</test-num>
+				<level-num>3</level-num>
+				<public-date>2014-07-28</public-date>
+				<description>Đề thi lịch sử Viettel năm 2014</description>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_lich_su_viettel.dat</link>
+			</data>
+		</category>
+	</app-data>
 
+</testing-assistant>
