@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appdata> 
+	<name>Testing Assistant Data</name>
+	<description></description>
+
+	<data>
+		<id>1</id>
+		<name>Information Technology Testing</name>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/information_technology_data.xml</link>
+	</data>
+
+	<data>
+		<id>2</id>
+		<name>Toeic Testing</name>
+		<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/toeic_data.xml</link>
+	</data>
+
+</appdata>
+
