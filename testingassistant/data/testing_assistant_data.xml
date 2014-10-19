@@ -17,7 +17,7 @@
 				<id>1000</id>
 				<name>Java SCJP Certification Testing</name>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_ky_su_giai_phap_phan_mem.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification.dat</link>
 			</data>
 		</category>
 	</app-data>
@@ -35,20 +35,12 @@
 				<id>10</id>
 				<name>Văn hóa Viettel</name>
 				<version>1.0</version>
-				<test-num>100</test-num>
-				<level-num>3</level-num>
-				<public-date>2014-07-28</public-date>
-				<description>Đề thi văn hóa Viettel năm 2014</description>
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_van_hoa_viettel.dat</link>
 			</data>
 			<data>
 				<id>11</id>
 				<name>Lịch sử Viettel</name>
 				<version>1.0</version>
-				<test-num>100</test-num>
-				<level-num>3</level-num>
-				<public-date>2014-07-28</public-date>
-				<description>Đề thi lịch sử Viettel năm 2014</description>
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_lich_su_viettel.dat</link>
 			</data>
 		</category>
