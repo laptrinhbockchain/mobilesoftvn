@@ -1,0 +1,42 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<style>
+		pre {white-space:pre-wrap;white-space:-moz-pre-wrap;white-space:-pre-wrap;white-space:-o-pre-wrap;word-wrap: break-word;-moz-tab-size:3;-o-tab-size:3;tab-size:3;}
+	</style>
+</head>
+<body>
+<pre>
+package com.mobilesoftvn.testingassistant.app;
+
+import java.util.ArrayList;
+
+public class DataUtils {
+	public static boolean isSame(ArrayList&lt;Integer&gt; obj1, ArrayList&lt;Integer&gt; obj2) {
+		if (obj1==null || obj2==null) return false;
+		if (obj1.size()==0 || obj2.size()==0) return false;
+		
+		boolean ret1 = true;
+		int num1 = obj1.size();
+		for (Integer i=0; i&lt;num1; i++) {
+			if (!obj2.contains(obj1.get(i))) {
+				ret1 = false;
+				break;
+			}
+		}
+		
+		boolean ret2 = true;
+		int num2 = obj2.size();
+		for (Integer i=0; i&lt;num2; i++) {
+			if (!obj1.contains(obj2.get(i))) {
+				ret2 = false;
+				break;
+			}
+		}
+
+		return (ret1 && ret2);
+	}
+}
+</pre>
+</body>
+</html>
