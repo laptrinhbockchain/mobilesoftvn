@@ -16,6 +16,7 @@
 			<data>
 				<id>1000</id>
 				<name>Java SCJP Certification Testing</name>
+				<description>Java SCJP Certification Testing</description>
 				<version>1.0</version>
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification.dat</link>
 			</data>
