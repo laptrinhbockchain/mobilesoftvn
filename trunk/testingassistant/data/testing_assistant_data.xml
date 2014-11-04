@@ -6,19 +6,68 @@
 
 	<app-data>
 		<id>1</id>
-		<name>Information Technology Data</name>
+		<name>Java Certification</name>
 		
 		<category>
 			<id>1</id>
-			<name>Java Programming</name>
+			<name>Sun Certified Java Associate (SCJA)</name>
 			<description></description>
 
 			<data>
 				<id>1000</id>
-				<name>Java SCJP Certification Testing</name>
+				<name>SCJA: Sun Certified Java Associate (Exam CX-310-019)</name>
+				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' of  Robert Liguori and Edward Finegan</description>
+				<version>1.0</version>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scja_certification.dat</link>
+			</data>
+		</category>
+
+		<category>
+			<id>2</id>
+			<name>Sun Certified Java Programmer (SCJP)</name>
+			<description></description>
+
+			<data>
+				<id>1000</id>
+				<name>Sun Certified Java Associate (SCJA)</name>
+				<description>SCJA Sun Certified Jav Associate Study Guide (Exam CX-310-019)</description>
+				<version>1.0</version>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scja_certification.dat</link>
+			</data>
+			<data>
+				<id>1001</id>
+				<name>Sun Certified Java Programmer (SCJP)</name>
 				<description>Java SCJP Certification Testing</description>
 				<version>1.0</version>
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification.dat</link>
+			</data>
+			<data>
+				<id>1002</id>
+				<name>Sun Certified Java Developer (SCJD)</name>
+				<description></description>
+				<version>1.0</version>
+				<link></link>
+			</data>
+			<data>
+				<id>1003</id>
+				<name>Sun Certified Web Component Developer (SCWCD)</name>
+				<description></description>
+				<version>1.0</version>
+				<link></link>
+			</data>
+			<data>
+				<id>1004</id>
+				<name>Sun Certified Business Component Developer (SCBCD)</name>
+				<description></description>
+				<version>1.0</version>
+				<link></link>
+			</data>
+			<data>
+				<id>1005</id>
+				<name>Sun Certified Business Component Developer (SCBCD)</name>
+				<description></description>
+				<version>1.0</version>
+				<link></link>
 			</data>
 		</category>
 	</app-data>
