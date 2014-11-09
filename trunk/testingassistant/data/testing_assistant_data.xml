@@ -16,7 +16,7 @@
 			<data>
 				<id>1000</id>
 				<name>SCJA SE Exam (CX-310-019)</name>
-				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' of  Robert Liguori and Edward Finegan.</description>
+				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' of Robert Liguori and Edward Finegan.</description>
 				<version>1.0</version>
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scja_certification.dat</link>
 			</data>
@@ -29,17 +29,17 @@
 
 			<data>
 				<id>1010</id>
-				<name>SCJP SE6 Exam (CX-310-065)</name>
-				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' of  Robert Liguori and Edward Finegan.</description>
+				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
+				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' of Khalid A. Mughal and Rolf W. Rasmussen.</description>
 				<version>1.0</version>
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_01.dat</link>
 			</data>
 			<data>
 				<id>1001</id>
-				<name>Sun Certified Java Programmer (SCJP)</name>
-				<description>Java SCJP Certification Testing</description>
+				<name>SCJP SE6 Exam 02 (CX-310-065)</name>
+				<description>From book 'SCJP Sun Certified Programmer for Java 6 Study Guide (Exam 310-065)' of Kathy Sierra and Bert Bates.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_02.dat</link>
 			</data>
 			<data>
 				<id>1002</id>
