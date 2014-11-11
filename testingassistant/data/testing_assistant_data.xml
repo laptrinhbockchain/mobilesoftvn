@@ -43,31 +43,10 @@
 			</data>
 			<data>
 				<id>1002</id>
-				<name>Sun Certified Java Developer (SCJD)</name>
-				<description></description>
+				<name>SCJP SE6 Exam 03 (CX-310-065)</name>
+				<description>From book 'OCP Java SE 6 Programmer Practice Exams (Exam 310-065)' of Bert Bates and Kathy Sierra.</description>
 				<version>1.0</version>
-				<link></link>
-			</data>
-			<data>
-				<id>1003</id>
-				<name>Sun Certified Web Component Developer (SCWCD)</name>
-				<description></description>
-				<version>1.0</version>
-				<link></link>
-			</data>
-			<data>
-				<id>1004</id>
-				<name>Sun Certified Business Component Developer (SCBCD)</name>
-				<description></description>
-				<version>1.0</version>
-				<link></link>
-			</data>
-			<data>
-				<id>1005</id>
-				<name>Sun Certified Business Component Developer (SCBCD)</name>
-				<description></description>
-				<version>1.0</version>
-				<link></link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_03.dat</link>
 			</data>
 		</category>
 	</app-data>
