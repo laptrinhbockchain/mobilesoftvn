@@ -49,30 +49,28 @@
 				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_03.dat</link>
 			</data>
 		</category>
-	</app-data>
-
-	<app-data>
-		<id>2</id>
-		<name>Viettel</name>
-		
+<!--
 		<category>
-			<id>2</id>
-			<name>Văn hóa/Lich sử</name>
+			<id>3</id>
+			<name>Sun Certified Java Developer (SCJD)</name>
+			<description></description>
+
+		</category>
+
+		<category>
+			<id>4</id>
+			<name>Sun Certified Web Component Developer (SCWCD)</name>
 			<description></description>
 
 			<data>
-				<id>10</id>
-				<name>Văn hóa Viettel</name>
+				<id>1010</id>
+				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
+				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' of Khalid A. Mughal and Rolf W. Rasmussen.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_van_hoa_viettel.dat</link>
-			</data>
-			<data>
-				<id>11</id>
-				<name>Lịch sử Viettel</name>
-				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/ittest/data/vt_lich_su_viettel.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_01.dat</link>
 			</data>
 		</category>
+-->
 	</app-data>
 
 </testing-assistant>
