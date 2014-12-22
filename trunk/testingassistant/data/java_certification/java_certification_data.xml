@@ -71,7 +71,7 @@
 				<name>SCJA SE Exam (CX-310-019)</name>
 				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' by Robert Liguori and Edward Finegan.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_scja_certification.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_scja_certification.dat</link>
 			</data>
 		</category>
 
@@ -85,35 +85,35 @@
 				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
 				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' by Khalid A. Mughal and Rolf W. Rasmussen.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_scjp_certification_01.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_scjp_certification_01.dat</link>
 			</data>
 			<data>
 				<id>1001</id>
 				<name>SCJP SE6 Exam 02 (CX-310-065)</name>
 				<description>From book 'SCJP Sun Certified Programmer for Java 6 Study Guide (Exam 310-065)' by Kathy Sierra and Bert Bates.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_scjp_certification_02.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_scjp_certification_02.dat</link>
 			</data>
 			<data>
 				<id>1002</id>
 				<name>SCJP SE6 Exam 03 (CX-310-065)</name>
 				<description>From book 'OCP Java SE 6 Programmer Practice Exams (Exam 310-065)' by Bert Bates and Kathy Sierra.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_scjp_certification_03.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_scjp_certification_03.dat</link>
 			</data>
 			<data>
 				<id>1003</id>
 				<name>OCPJP 7 Exam 01 (CX-310-065)</name>
 				<description>From book 'Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805' by S G Ganesh and Tushar Sharma.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_ocpjp_certification_01.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_ocpjp_certification_01.dat</link>
 			</data>
 			<data>
 				<id>1004</id>
 				<name>OCPJP 7 Exam 02 (CX-310-065)</name>
 				<description>From book 'Sun RealExamQuestions 310-065 v2011-11-08' by Stephen.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_ocpjp_certification_02.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_ocpjp_certification_02.dat</link>
 			</data>
 		</category>
 <!--
@@ -134,14 +134,14 @@
 				<name>SCWCD Exam 01 (SCE 310-081)</name>
 				<description>From book 'JAVA WEB COMPONENT DEVELOPER CERTIFICATION' by Hanumant Deshmukh, Jignesh Malavia, Matthew Scarpino.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_scwcd_certification_01.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_scwcd_certification_01.dat</link>
 			</data>
 			<data>
 				<id>1201</id>
 				<name>SCWCD Exam 02</name>
 				<description>From book 'Java certification success, Part 2: SCWCD' by Seema Manivannan.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java certification/java_scwcd_certification_02.dat</link>
+				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_certification/java_scwcd_certification_02.dat</link>
 			</data>
 		</category>
 
