@@ -2,5 +2,6 @@
 
 <version> 
 	<name>English Daily Vocabulary</name>
-	<lastest-version>2.2.4</lastest-version>
+	<description>Fix bug on Android 4.4 and later</description>
+	<lastest-version>2.2.6/lastest-version>
 </version>
