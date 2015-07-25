@@ -8,12 +8,13 @@
     </version>
 	
 	<ads-banner>
+		<!--
 		<ads>
 			<type>ADMOB</type>
 			<ratio>1</ratio>
 			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
 			<location-support>true</location-support>
-		</ads>
+		</ads> -->
 		<ads>
 			<type>STARTAPP</type>
 			<ratio>1</ratio>
@@ -21,7 +22,7 @@
 			<app-id>207628733</app-id>
 			<location-support>true</location-support>
 		</ads>
-		<ads>
+		<!--<ads>
 			<type>MMEDIA</type>
 			<ratio>1</ratio>
 			<app-id>206812</app-id>
@@ -39,9 +40,9 @@
 			<account-id>1437664284230789443</account-id>
 			<app-id>282028</app-id>
 			<location-support>true</location-support>
-		</ads>
+		</ads>-->
 	</ads-banner>
-	
+	<!--
 	<ads-interstitial>
 	    <ads>
 			<type>ADMOB</type>
@@ -80,7 +81,7 @@
 			<ads-counter-mode>true</ads-counter-mode>
 		</ads>
     </ads-interstitial>
-	    
+	    -->
 	<ads-myapp>
 	    <ads>
 			<app-name>TOEIC Learning Daily</app-name>
