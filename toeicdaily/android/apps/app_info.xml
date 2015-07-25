@@ -21,20 +21,20 @@
 			<account-id>107012832</account-id>
 			<app-id>207628733</app-id>
 			<location-support>true</location-support>
-		</ads>-->
+		</ads>
 		<ads>
 			<type>MMEDIA</type>
 			<ratio>1</ratio>
 			<app-id>206812</app-id>
 			<location-support>true</location-support>
-		</ads>
-		<!--
+		</ads>-->
+		
 		<ads>
 			<type>AMAZON</type>
 			<ratio>1</ratio>
 			<app-id>2d243ee0aa144bf18d0fef72f2cbfca8</app-id>
 			<location-support>true</location-support>
-		</ads>
+		</ads><!--
 		<ads>
 			<type>AIRPUSH</type>
 			<ratio>1</ratio>
