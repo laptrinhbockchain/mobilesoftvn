@@ -4,7 +4,7 @@
 	<version>
 		<name>English Daily Vocabulary</name>
 		<description>Fix bug on Android 4.4 and later</description>
-		<lastest-version>2.2.6</lastest-version>
+		<lastest-version>2.2.9</lastest-version>
     </version>
 	
 	<ads-banner>
@@ -27,20 +27,20 @@
 			<ratio>1</ratio>
 			<app-id>206812</app-id>
 			<location-support>true</location-support>
-		</ads>-->
+		</ads>
 		<ads>
 			<type>AMAZON</type>
 			<ratio>1</ratio>
 			<app-id>2d243ee0aa144bf18d0fef72f2cbfca8</app-id>
 			<location-support>true</location-support>
-		</ads><!--
+		</ads>-->
 		<ads>
 			<type>AIRPUSH</type>
 			<ratio>1</ratio>
 			<account-id>1437664284230789443</account-id>
 			<app-id>282028</app-id>
 			<location-support>true</location-support>
-		</ads>-->
+		</ads><!---->
 	</ads-banner>
 	<!--
 	<ads-interstitial>
