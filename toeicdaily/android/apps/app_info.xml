@@ -3,14 +3,14 @@
 <app-info>
 	<version>
 		<name>English Daily Vocabulary</name>
-		<description>Fix bug on Android 4.4 and later</description>
-		<lastest-version>2.2.9</lastest-version>
-    </version>
+		<description>Fix translation function and support to purchase license in app</description>
+		<lastest-version>2.3</lastest-version>
+	</version>
 	
 	<ads-banner>
 		<ads>
 			<type>ADMOB</type>
-			<ratio>1</ratio>
+			<ratio>2</ratio>
 			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
 			<location-support>true</location-support>
 		</ads>
@@ -19,18 +19,6 @@
 			<ratio>1</ratio>
 			<account-id>107012832</account-id>
 			<app-id>207628733</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<ads>
-			<type>MMEDIA</type>
-			<ratio>1</ratio>
-			<app-id>206812</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<ads>
-			<type>AMAZON</type>
-			<ratio>1</ratio>
-			<app-id>2d243ee0aa144bf18d0fef72f2cbfca8</app-id>
 			<location-support>true</location-support>
 		</ads>
 		<ads>
@@ -42,9 +30,9 @@
 		</ads>
 	</ads-banner>
 	<ads-interstitial>
-	    <ads>
+		<ads>
 			<type>ADMOB</type>
-			<ratio>1</ratio>
+			<ratio>2</ratio>
 			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
 			<location-support>true</location-support>
 		</ads>
@@ -58,18 +46,6 @@
 			<ads-counter-mode>true</ads-counter-mode>
 		</ads>
 		<ads>
-			<type>MMEDIA</type>
-			<ratio>1</ratio>
-			<app-id>206813</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<ads>
-			<type>AMAZON</type>
-			<ratio>1</ratio>
-			<app-id>2d243ee0aa144bf18d0fef72f2cbfca8</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<ads>
 			<type>AIRPUSH</type>
 			<ratio>1</ratio>
 			<account-id>1437664284230789443</account-id>
@@ -78,10 +54,10 @@
 			<show-ads-back>true</show-ads-back>
 			<ads-counter-mode>true</ads-counter-mode>
 		</ads>
-    </ads-interstitial>
+	</ads-interstitial>
 
 	<ads-myapp>
-	    <ads>
+		<ads>
 			<app-name>TOEIC Learning Daily</app-name>
 			<package-name>com.mobilesoftvn.toeic.learningdaily</package-name>
 			<main-activity>com.mobilesoftvn.toeic.learningdaily.MainActivity</main-activity>
