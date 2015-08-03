@@ -3,8 +3,8 @@
 <app-info>
 	<version>
 		<name>English Daily Vocabulary</name>
-		<description>Fix translation function and support to purchase professional version in app</description>
-		<lastest-version>2.3.5</lastest-version>
+		<!--<description>Fix translation function and support to purchase professional version in app</description>-->
+		<lastest-version>2.0</lastest-version>
 	</version>
 	
 	<ads-banner>
