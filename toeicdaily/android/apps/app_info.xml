@@ -14,6 +14,7 @@
 			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
 			<location-support>true</location-support>
 		</ads>
+		<!--
 		<ads>
 			<type>STARTAPP</type>
 			<ratio>1</ratio>
@@ -27,7 +28,7 @@
 			<account-id>1437664284230789443</account-id>
 			<app-id>282028</app-id>
 			<location-support>true</location-support>
-		</ads>
+		</ads>-->
 	</ads-banner>
 	<ads-interstitial>
 		<ads>
@@ -36,6 +37,7 @@
 			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
 			<location-support>true</location-support>
 		</ads>
+		<!--
 		<ads>
 			<type>STARTAPP</type>
 			<ratio>1</ratio>
@@ -53,7 +55,7 @@
 			<location-support>true</location-support>
 			<show-ads-back>true</show-ads-back>
 			<ads-counter-mode>true</ads-counter-mode>
-		</ads>
+		</ads>-->
 	</ads-interstitial>
 
 	<ads-myapp>
