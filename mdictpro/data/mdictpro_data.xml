@@ -146,6 +146,33 @@
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienvatly.mdp</link>
 	</data>
 	<data>
+		<id>1208</id>
+		<name>Từ điển dầu khí</name>
+		<version>1.0</version>
+		<word-num>50000</word-num>
+		<size>5851434</size>
+		<public-date>2015-09-16</public-date>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudiendaukhi.mdp</link>
+	</data>
+	<data>
+		<id>1209</id>
+		<name>Từ điển ô tô anh việt</name>
+		<version>1.0</version>
+		<word-num>12000</word-num>
+		<size>30898847</size>
+		<public-date>2015-09-16</public-date>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienoto(ev).mdp</link>
+	</data>
+	<data>
+		<id>1210</id>
+		<name>Từ điển ô tô  việt anh</name>
+		<version>1.0</version>
+		<word-num>6200</word-num>
+		<size>28721747</size>
+		<public-date>2015-09-16</public-date>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienoto(ve).mdp</link>
+	</data>
+	<data>
 		<id>209</id>
 		<name>Từ điển thuốc</name>
 		<version>1.1</version>
