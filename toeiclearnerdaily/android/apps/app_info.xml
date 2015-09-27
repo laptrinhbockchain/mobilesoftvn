@@ -2,73 +2,8 @@
 
 <app-info>
 	<version>
-		<name>English Daily Vocabulary</name>
-		<description>Fix translation function and support to purchase professional version in app</description>
-		<lastest-version>2.3</lastest-version>
+		<name>TOEIC Learning Daily</name>
+		<description>Fix some bugs</description>
+		<lastest-version>1.2</lastest-version>
 	</version>
-	
-	<ads-banner>
-		<ads>
-			<type>ADMOB</type>
-			<ratio>2</ratio>
-			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<!--
-		<ads>
-			<type>STARTAPP</type>
-			<ratio>1</ratio>
-			<account-id>107012832</account-id>
-			<app-id>207628733</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<ads>
-			<type>AIRPUSH</type>
-			<ratio>1</ratio>
-			<account-id>1437664284230789443</account-id>
-			<app-id>282028</app-id>
-			<location-support>true</location-support>
-		</ads>
-		-->
-	</ads-banner>
-	<ads-interstitial>
-		<ads>
-			<type>ADMOB</type>
-			<ratio>2</ratio>
-			<app-id>ca-app-pub-3552119059192096/2144566563</app-id>
-			<location-support>true</location-support>
-		</ads>
-		<!--
-		<ads>
-			<type>STARTAPP</type>
-			<ratio>1</ratio>
-			<account-id>107012832</account-id>
-			<app-id>207628733</app-id>
-			<location-support>true</location-support>
-			<show-ads-back>true</show-ads-back>
-			<ads-counter-mode>true</ads-counter-mode>
-		</ads>
-		<ads>
-			<type>AIRPUSH</type>
-			<ratio>1</ratio>
-			<account-id>1437664284230789443</account-id>
-			<app-id>282028</app-id>
-			<location-support>true</location-support>
-			<show-ads-back>true</show-ads-back>
-			<ads-counter-mode>true</ads-counter-mode>
-		</ads>
-		-->
-	</ads-interstitial>
-
-	<ads-myapp>
-		<ads>
-			<app-name>TOEIC Learning Daily</app-name>
-			<package-name>com.mobilesoftvn.toeic.learningdaily</package-name>
-			<main-activity>com.mobilesoftvn.toeic.learningdaily.MainActivity</main-activity>
-			<high-priority>true</high-priority>
-			<ratio>1</ratio>
-			<title>Install TOEIC Learning Daily</title>
-			<description>Maybe you need to the app TOEIC Learning Daily to improve your TOEIC Skill and get higher score in TOEIC examination. Do you want to install the app?</description>
-		</ads>
-	</ads-myapp>
 </app-info>
