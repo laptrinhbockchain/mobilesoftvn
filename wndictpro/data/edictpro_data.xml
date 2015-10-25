@@ -141,6 +141,7 @@
 			<word-num>55</word-num>
 			<size>52571</size>
 			<public-date>2015-10-24</public-date>
+			<type>GRAMMAR</type>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/grammar_secrets.mdp</link>
 		</data>
 		<data>
@@ -150,6 +151,7 @@
 			<word-num>20</word-num>
 			<size>57658919</size>
 			<public-date>2015-10-24</public-date>
+			<type>GRAMMAR</type>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/grammar_infographics.mdp</link>
 		</data>
 	</category>
