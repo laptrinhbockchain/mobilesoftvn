@@ -106,7 +106,7 @@
 			<public-date>2015-10-24</public-date>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/word_web_v1.1.mdp</link>
 		</data>
-		<data>
+		<!--<data>
 			<id>10002</id>
 			<name>Wiktionary</name>
 			<version>1.0</version>
@@ -114,7 +114,7 @@
 			<size>100133515</size>
 			<public-date>2015-10-24</public-date>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/wiktionary.mdp</link>
-		</data>
+		</data>-->
 		<data>
 			<id>10003</id>
 			<name>Oxford World Encyclopedia</name>
