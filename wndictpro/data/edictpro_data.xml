@@ -102,25 +102,25 @@
 			<name>Word Web 1.1</name>
 			<version>1.0</version>
 			<word-num>157793</word-num>
-			<size>54676168</size>
+			<size>52107342</size>
 			<public-date>2015-10-24</public-date>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/word_web_v1.1.mdp</link>
 		</data>
-		<!--<data>
+		<data>
 			<id>10002</id>
 			<name>Wiktionary</name>
 			<version>1.0</version>
 			<word-num>407449</word-num>
-			<size>100133515</size>
+			<size>97359187</size>
 			<public-date>2015-10-24</public-date>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/wiktionary.mdp</link>
-		</data>-->
+		</data>
 		<data>
 			<id>10003</id>
 			<name>Oxford World Encyclopedia</name>
 			<version>1.0</version>
 			<word-num>17459</word-num>
-			<size>5781979</size>
+			<size>5782276</size>
 			<public-date>2015-10-24</public-date>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/oxford_world_encyclopedia.mdp</link>
 		</data>
@@ -129,7 +129,7 @@
 			<name>Shorter Oxford English Dictionary 1.3.3</name>
 			<version>1.0</version>
 			<word-num>102238</word-num>
-			<size>40731176</size>
+			<size>41192154</size>
 			<public-date>2015-10-24</public-date>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/shorter_oxf_english_dict.mdp</link>
 		</data>
@@ -139,7 +139,7 @@
 			<name>English Grammar Secrets</name>
 			<version>1.0</version>
 			<word-num>55</word-num>
-			<size>52571</size>
+			<size>52570</size>
 			<public-date>2015-10-24</public-date>
 			<type>GRAMMAR</type>
 			<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/wndictpro/data/grammar_secrets.mdp</link>
