@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <microsoft-translation-info>
+	<!--
 	<keyinfo>
-	    <client-id>123</client-id>
-		<client-secret>456</client-secret>
+	    <client-id>xxxxx</client-id>
+		<client-secret>yyyyy</client-secret>
 	</keyinfo>
+	-->
 </microsoft-translation-info>
