@@ -69,6 +69,7 @@
 		<word-num>87</word-num>
 		<size>237218</size>
 		<public-date>2013-05-19</public-date>
+		<type>GRAMMAR</type>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/nguphaptienganhcoban.mdp</link>
 	</data>
 	<data>
@@ -78,6 +79,7 @@
 		<word-num>274</word-num>
 		<size>447219</size>
 		<public-date>2013-05-19</public-date>
+		<type>GRAMMAR</type>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/nguphaptienganhthuchanh.mdp</link>
 	</data>
 	<data>
@@ -87,6 +89,7 @@
 		<word-num>45</word-num>
 		<size>1109537</size>
 		<public-date>2013-05-19</public-date>
+		<type>GRAMMAR</type>
 		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/quytacphatam.mdp</link>
 	</data>
 
