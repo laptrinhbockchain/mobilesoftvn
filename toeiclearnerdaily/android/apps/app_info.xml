@@ -3,7 +3,9 @@
 <app-info>
 	<version>
 		<name>TOEIC Learning Daily</name>
+		<!--
 		<description>Fix some bugs</description>
-		<lastest-version>1.2</lastest-version>
+		-->
+		<lastest-version>1.5</lastest-version>
 	</version>
 </app-info>
