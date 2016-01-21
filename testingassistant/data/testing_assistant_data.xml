@@ -73,7 +73,7 @@
 				<name>SCJA SE Exam (CX-310-019)</name>
 				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' of Robert Liguori and Edward Finegan.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scja_certification.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scja_certification.dat</link>
 			</data>
 		</category>
 
@@ -87,21 +87,21 @@
 				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
 				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' of Khalid A. Mughal and Rolf W. Rasmussen.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_01.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_01.dat</link>
 			</data>
 			<data>
 				<id>1001</id>
 				<name>SCJP SE6 Exam 02 (CX-310-065)</name>
 				<description>From book 'SCJP Sun Certified Programmer for Java 6 Study Guide (Exam 310-065)' of Kathy Sierra and Bert Bates.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_02.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_02.dat</link>
 			</data>
 			<data>
 				<id>1002</id>
 				<name>SCJP SE6 Exam 03 (CX-310-065)</name>
 				<description>From book 'OCP Java SE 6 Programmer Practice Exams (Exam 310-065)' of Bert Bates and Kathy Sierra.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_03.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_03.dat</link>
 			</data>
 		</category>
 <!--
@@ -122,7 +122,7 @@
 				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
 				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' of Khalid A. Mughal and Rolf W. Rasmussen.</description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/java_scjp_certification_01.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_01.dat</link>
 			</data>
 		</category>
 -->
@@ -142,14 +142,14 @@
 				<name>October 2015 (Morning)</name>
 				<description></description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/fe_2015_oct_am.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2015_oct_am.dat</link>
 			</data>
 			<data>
 				<id>1100</id>
 				<name>October 2015 (Afternoon)</name>
 				<description></description>
 				<version>1.0</version>
-				<link>http://mobilesoftvn.googlecode.com/svn/trunk/testingassistant/data/fe_2015_oct_pm.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2015_oct_pm.dat</link>
 			</data>
 		</category>
 		
