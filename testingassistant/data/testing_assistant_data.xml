@@ -3,10 +3,11 @@
 <testing-assistant> 
 	<name>Testing Assistant Data</name>
 	<description></description>
-
+	
 	<app-data>
 		<id>1</id>
 		<name>Java Certification Exams</name>
+		
 		<description>
 			<![CDATA[
 				<div style="text-align:center; font-size:large"><b>Java Certification</b></div>
@@ -71,70 +72,86 @@
 			<data>
 				<id>1000</id>
 				<name>SCJA SE Exam (CX-310-019)</name>
-				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' of Robert Liguori and Edward Finegan.</description>
+				<description>From book 'SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)' by Robert Liguori and Edward Finegan.</description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scja_certification.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_scja_certification.dat</link>
 			</data>
 		</category>
-
 		<category>
 			<id>2</id>
-			<name>Oracle Certified Professional Java Programmer (OCPJP) / Sun Certified Java Programmer (SCJP)</name>
+			<name>Sun Certified Java Programmer (SCJP) / Oracle Certified Professional Java Programmer (OCPJP)</name>
 			<description></description>
 
 			<data>
 				<id>1010</id>
 				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
-				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' of Khalid A. Mughal and Rolf W. Rasmussen.</description>
+				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' by Khalid A. Mughal and Rolf W. Rasmussen.</description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_01.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_scjp_certification_01.dat</link>
 			</data>
 			<data>
 				<id>1001</id>
 				<name>SCJP SE6 Exam 02 (CX-310-065)</name>
-				<description>From book 'SCJP Sun Certified Programmer for Java 6 Study Guide (Exam 310-065)' of Kathy Sierra and Bert Bates.</description>
+				<description>From book 'SCJP Sun Certified Programmer for Java 6 Study Guide (Exam 310-065)' by Kathy Sierra and Bert Bates.</description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_02.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_scjp_certification_02.dat</link>
 			</data>
 			<data>
 				<id>1002</id>
 				<name>SCJP SE6 Exam 03 (CX-310-065)</name>
-				<description>From book 'OCP Java SE 6 Programmer Practice Exams (Exam 310-065)' of Bert Bates and Kathy Sierra.</description>
+				<description>From book 'OCP Java SE 6 Programmer Practice Exams (Exam 310-065)' by Bert Bates and Kathy Sierra.</description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_03.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_scjp_certification_03.dat</link>
+			</data>
+			<data>
+				<id>1003</id>
+				<name>OCPJP 7 Exam 01 (CX-310-065)</name>
+				<description>From book 'Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805' by S G Ganesh and Tushar Sharma.</description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_ocpjp_certification_01.dat</link>
+			</data>
+			<data>
+				<id>1004</id>
+				<name>OCPJP 7 Exam 02 (CX-310-065)</name>
+				<description>From book 'Sun RealExamQuestions 310-065 v2011-11-08' by Stephen.</description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_ocpjp_certification_02.dat</link>
 			</data>
 		</category>
-<!--
-		<category>
+		<!--<category>
 			<id>3</id>
 			<name>Sun Certified Java Developer (SCJD)</name>
 			<description></description>
-
-		</category>
-
+		</category>-->
 		<category>
 			<id>4</id>
 			<name>Sun Certified Web Component Developer (SCWCD)</name>
 			<description></description>
 
 			<data>
-				<id>1010</id>
-				<name>SCJP SE6 Exam 01 (CX-310-065)</name>
-				<description>From book 'A Programmer's Guide to Java SCJP Certification (Third Edition)' of Khalid A. Mughal and Rolf W. Rasmussen.</description>
+				<id>1200</id>
+				<name>SCWCD Exam 01 (SCE 310-081)</name>
+				<description>From book 'JAVA WEB COMPONENT DEVELOPER CERTIFICATION' by Hanumant Deshmukh, Jignesh Malavia, Matthew Scarpino.</description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_scjp_certification_01.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_scwcd_certification_01.dat</link>
+			</data>
+			<data>
+				<id>1201</id>
+				<name>SCWCD Exam 02</name>
+				<description>From book 'Java certification success, Part 2: SCWCD' by Seema Manivannan.</description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/java_certification/java_scwcd_certification_02.dat</link>
 			</data>
 		</category>
--->
 	</app-data>
 	
 	<app-data>
 		<id>2</id>
-		<name>Fundamental IT Engineer Examination (FE)</name>
+		<name>FE Exams</name>
 		
 		<category>
-			<id>1</id>
-			<name>ITPEC FE 2015</name>
+			<id>100</id>
+			<name>FE Exams 2015</name>
 			<description></description>
 
 			<data>
@@ -142,17 +159,64 @@
 				<name>October 2015 (Morning)</name>
 				<description></description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2015_oct_am.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_oct_am.dat</link>
 			</data>
 			<data>
-				<id>1100</id>
+				<id>1101</id>
 				<name>October 2015 (Afternoon)</name>
 				<description></description>
 				<version>1.0</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2015_oct_pm.dat</link>
 			</data>
+			<data>
+				<id>1102</id>
+				<name>May 2015 (Morning)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_may_am.dat</link>
+			</data>
+			<data>
+				<id>1103</id>
+				<name>May 2015 (Afternoon)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2015_may_pm.dat</link>
+			</data>
 		</category>
-		
+		<category>
+			<id>101</id>
+			<name>FE Exams 2014</name>
+			<description></description>
+
+			<data>
+				<id>1104</id>
+				<name>October 2014 (Morning)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_oct_am.dat</link>
+			</data>
+			<data>
+				<id>1105</id>
+				<name>October 2014 (Afternoon)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2014_oct_pm.dat</link>
+			</data>
+			<data>
+				<id>1106</id>
+				<name>April 2014 (Morning)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_april_am.dat</link>
+			</data>
+			<data>
+				<id>1103</id>
+				<name>April 2014 (Afternoon)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2014_april_pm.dat</link>
+			</data>
+		</category>
 	</app-data>
 
 </testing-assistant>
