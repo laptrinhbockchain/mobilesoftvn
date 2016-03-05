@@ -180,7 +180,7 @@
 				<name>May 2015 (Afternoon)</name>
 				<description></description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2015_may_pm.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_may_pm.dat</link>
 			</data>
 		</category>
 		<category>
@@ -200,7 +200,7 @@
 				<name>October 2014 (Afternoon)</name>
 				<description></description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2014_oct_pm.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_oct_pm.dat</link>
 			</data>
 			<data>
 				<id>1106</id>
@@ -214,7 +214,7 @@
 				<name>April 2014 (Afternoon)</name>
 				<description></description>
 				<version>1.0</version>
-				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe_2014_april_pm.dat</link>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_april_pm.dat</link>
 			</data>
 		</category>
 	</app-data>
