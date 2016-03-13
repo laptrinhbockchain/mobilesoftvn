@@ -158,28 +158,28 @@
 				<id>1100</id>
 				<name>October 2015 (Morning)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_oct_am.dat</link>
 			</data>
 			<data>
 				<id>1101</id>
 				<name>October 2015 (Afternoon)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_oct_pm.dat</link>
 			</data>
 			<data>
 				<id>1102</id>
 				<name>May 2015 (Morning)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_may_am.dat</link>
 			</data>
 			<data>
 				<id>1103</id>
 				<name>May 2015 (Afternoon)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2015_may_pm.dat</link>
 			</data>
 		</category>
@@ -192,28 +192,28 @@
 				<id>1104</id>
 				<name>October 2014 (Morning)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_oct_am.dat</link>
 			</data>
 			<data>
 				<id>1105</id>
 				<name>October 2014 (Afternoon)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_oct_pm.dat</link>
 			</data>
 			<data>
 				<id>1106</id>
 				<name>April 2014 (Morning)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_april_am.dat</link>
 			</data>
 			<data>
 				<id>1103</id>
 				<name>April 2014 (Afternoon)</name>
 				<description></description>
-				<version>1.0</version>
+				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_april_pm.dat</link>
 			</data>
 		</category>
