@@ -210,11 +210,46 @@
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_april_am.dat</link>
 			</data>
 			<data>
-				<id>1103</id>
+				<id>1107</id>
 				<name>April 2014 (Afternoon)</name>
 				<description></description>
 				<version>1.1</version>
 				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2014_april_pm.dat</link>
+			</data>
+		</category>
+		
+		<category>
+			<id>102</id>
+			<name>FE Exams 2013</name>
+			<description></description>
+
+			<data>
+				<id>1108</id>
+				<name>October 2013 (Morning)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2013_oct_am.dat</link>
+			</data>
+			<data>
+				<id>1109</id>
+				<name>October 2013 (Afternoon)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2013_oct_pm.dat</link>
+			</data>
+			<data>
+				<id>1110</id>
+				<name>April 2013 (Morning)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2013_april_am.dat</link>
+			</data>
+			<data>
+				<id>1111</id>
+				<name>April 2013 (Afternoon)</name>
+				<description></description>
+				<version>1.0</version>
+				<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/testingassistant/data/fe/fe_2013_april_pm.dat</link>
 			</data>
 		</category>
 	</app-data>
