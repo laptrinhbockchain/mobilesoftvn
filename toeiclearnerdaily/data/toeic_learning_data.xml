@@ -8,36 +8,35 @@
 		<id>1</id>
 		<name>Very Easy TOEIC</name>
 		<description></description>
-		<version>1.0</version>
+		<version>1.0.1</version>
 		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeiclearnerdaily/data/level_01/toeic_level_01.dat</link>
 	</data>
 	<data>
 		<id>2</id>
-		<name>SCJA SE Exam (CX-310-019)</name>
+		<name>Starter TOEIC</name>
 		<description></description>
-		<version>1.0</version>
+		<version>1.0.1</version>
 		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeiclearnerdaily/data/level_02/toeic_level_02.dat</link>
 	</data>
 	<data>
 		<id>3</id>
-		<name>SCJA SE Exam (CX-310-019)</name>
+		<name>Developing TOEIC</name>
 		<description></description>
 		<version>1.0</version>
 		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeiclearnerdaily/data/level_03/toeic_level_03.dat</link>
 	</data>
 	<data>
 		<id>4</id>
-		<name>SCJA SE Exam (CX-310-019)</name>
+		<name>Analyst TOEIC</name>
 		<description></description>
 		<version>1.0</version>
 		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeiclearnerdaily/data/level_04/toeic_level_04.dat</link>
 	</data>
 	<data>
 		<id>5</id>
-		<name>SCJA SE Exam (CX-310-019)</name>
+		<name>Starter TOEIC</name>
 		<description></description>
 		<version>1.0</version>
 		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeiclearnerdaily/data/level_05/toeic_level_05.dat</link>
 	</data>
-
 </toeic-learning-data>
