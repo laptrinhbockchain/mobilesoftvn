@@ -13,7 +13,7 @@
 		<word-num>145600</word-num>
 		<size>37976320</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhanh.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienanhanh.mdp</link>
 	</data>
 	<data>
 		<id>1001</id>
@@ -22,7 +22,7 @@
 		<word-num>145600</word-num>
 		<size>16762259</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienanhviet.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienanhviet.mdp</link>
 	</data>
 	<data>
 		<id>1100</id>
@@ -31,7 +31,7 @@
 		<word-num>253200</word-num>
 		<size>32251797</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkythuat_ev.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienkythuat_ev.mdp</link>
 	</data>
 	<data>
 		<id>1101</id>
@@ -40,7 +40,7 @@
 		<word-num>237000</word-num>
 		<size>29103205</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkythuat_ve.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienkythuat_ve.mdp</link>
 	</data>
 	<data>
 		<id>1002</id>
@@ -49,7 +49,7 @@
 		<word-num>75300</word-num>
 		<size>6332596</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienvietanh.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienvietanh.mdp</link>
 	</data>
 	<data>
 		<id>1003</id>
@@ -58,7 +58,7 @@
 		<word-num>30000</word-num>
 		<size>3535218</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienvietviet.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienvietviet.mdp</link>
 	</data>
 
 	<!-- Dữ liệu từ điển ngữ pháp -->
@@ -70,7 +70,7 @@
 		<size>237218</size>
 		<public-date>2013-05-19</public-date>
 		<type>GRAMMAR</type>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/nguphaptienganhcoban.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/nguphaptienganhcoban.mdp</link>
 	</data>
 	<data>
 		<id>1301</id>
@@ -80,7 +80,7 @@
 		<size>447219</size>
 		<public-date>2013-05-19</public-date>
 		<type>GRAMMAR</type>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/nguphaptienganhthuchanh.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/nguphaptienganhthuchanh.mdp</link>
 	</data>
 	<data>
 		<id>1302</id>
@@ -90,7 +90,7 @@
 		<size>1109537</size>
 		<public-date>2013-05-19</public-date>
 		<type>GRAMMAR</type>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/quytacphatam.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/quytacphatam.mdp</link>
 	</data>
 
 	<!-- Dữ liệu từ điển chuyên ngành -->
@@ -101,7 +101,7 @@
 		<word-num>5000</word-num>
 		<size>3535219</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudientoanhoc.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudientoanhoc.mdp</link>
 	</data>
 	<data>
 		<id>1201</id>
@@ -110,7 +110,7 @@
 		<word-num>9000</word-num>
 		<size>1407314</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkinhte(ev).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienkinhte(ev).mdp</link>
 	</data>
 	<data>
 		<id>1202</id>
@@ -119,7 +119,7 @@
 		<word-num>6000</word-num>
 		<size>862300</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkinhte(ve).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienkinhte(ve).mdp</link>
 	</data>
 	<data>
 		<id>1204</id>
@@ -128,7 +128,7 @@
 		<word-num>70000</word-num>
 		<size>7692219</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienthuongmai(e-v).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienthuongmai(e-v).mdp</link>
 	</data>
 	<data>
 		<id>1205</id>
@@ -137,7 +137,7 @@
 		<word-num>22500</word-num>
 		<size>4030473</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienxaydung.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienxaydung.mdp</link>
 	</data>
 	<data>
 		<id>1206</id>
@@ -146,7 +146,7 @@
 		<word-num>5000</word-num>
 		<size>516198</size>
 		<public-date>2013-05-19</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienvatly.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienvatly.mdp</link>
 	</data>
 	<data>
 		<id>1208</id>
@@ -182,7 +182,7 @@
 		<word-num>1189</word-num>
 		<size>4035119</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienthuoc.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienthuoc.mdp</link>
 	</data>
 	<data>
 		<id>213</id>
@@ -191,7 +191,7 @@
 		<word-num>25868</word-num>
 		<size>1254434</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienykhoa.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienykhoa.mdp</link>
 	</data>
 	<data>
 		<id>202</id>
@@ -200,7 +200,7 @@
 		<word-num>3246</word-num>
 		<size>186136</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudiendien.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudiendien.mdp</link>
 	</data>
 	<data>
 		<id>200</id>
@@ -209,7 +209,7 @@
 		<word-num>8333</word-num>
 		<size>1283248</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienchungkhoan(ee).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienchungkhoan(ee).mdp</link>
 	</data>
 	<data>
 		<id>201</id>
@@ -218,7 +218,7 @@
 		<word-num>1241</word-num>
 		<size>398893</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienchungkhoan(ev).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienchungkhoan(ev).mdp</link>
 	</data>
 	<data>
 		<id>203</id>
@@ -227,7 +227,7 @@
 		<word-num>2176</word-num>
 		<size>106356</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienhanghai.mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienhanghai.mdp</link>
 	</data>
 	<data>
 		<id>206</id>
@@ -236,7 +236,7 @@
 		<word-num>3807</word-num>
 		<size>621375</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkinhtebien(ee).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienkinhtebien(ee).mdp</link>
 	</data>
 	<data>
 		<id>207</id>
@@ -245,7 +245,7 @@
 		<word-num>4925</word-num>
 		<size>451871</size>
 		<public-date>2013-10-15</public-date>
-		<link>http://mobilesoftvn.googlecode.com/svn/trunk/mdictpro/data/tudienkinhtebien(ev).mdp</link>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/mdictpro/data/tudienkinhtebien(ev).mdp</link>
 	</data>
 
 </mdictpro>
