@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<english-vocabulary-daily> 
+	<name>English Vocabulary Daily</name>
+	<description></description>
+	
+	<data>
+		<id>0</id>
+		<priority>1</priority>
+		<name>600 TOEIC Words</name>
+		<description></description>
+		<version>5</version>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeicdaily/data/toeic_words_v4.dat</link>
+	</data>
+	<data>
+		<id>1</id>
+		<priority>2</priority>
+		<name>5000 TOEFL/IELTS Words</name>
+		<description></description>
+		<version>2</version>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeicdaily/data/ielts_words.dat</link>
+	</data>
+	<data>
+		<id>2</id>
+		<priority>3</priority>
+		<name>3420 TOEIC Words</name>
+		<description></description>
+		<version>1</version>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeicdaily/data/toeic_3420.dat</link>
+	</data>
+	<data>
+		<id>3</id>
+		<priority>4</priority>
+		<name>400 TOEFL Must-Have Words</name>
+		<description></description>
+		<version>2</version>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeicdaily/data/toefl_words_400.dat</link>
+	</data>
+	<data>
+		<id>4</id>
+		<priority>5</priority>
+		<name>Business Letters</name>
+		<description></description>
+		<version>1</version>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeicdaily/data/business_letters.dat</link>
+	</data>
+	<data>
+		<id>5</id>
+		<priority>6</priority>
+		<name>Interview Questions</name>
+		<description></description>
+		<version>1</version>
+		<link>https://raw.githubusercontent.com/mobilesoftvn/mobilesoftvn/master/toeicdaily/data/interview_questions.dat</link>
+	</data>
+</english-vocabulary-daily>
