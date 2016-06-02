@@ -14,7 +14,7 @@
 	</data>
 	<data>
 		<id>1</id>
-		<priority>2</priority>
+		<priority>5</priority>
 		<name>5000 TOEFL/IELTS Words</name>
 		<description></description>
 		<version>2</version>
@@ -22,7 +22,7 @@
 	</data>
 	<data>
 		<id>2</id>
-		<priority>3</priority>
+		<priority>6</priority>
 		<name>3420 TOEIC Words</name>
 		<description></description>
 		<version>1</version>
@@ -30,7 +30,7 @@
 	</data>
 	<data>
 		<id>3</id>
-		<priority>4</priority>
+		<priority>2</priority>
 		<name>400 TOEFL Must-Have Words</name>
 		<description></description>
 		<version>2</version>
@@ -38,7 +38,7 @@
 	</data>
 	<data>
 		<id>4</id>
-		<priority>5</priority>
+		<priority>3</priority>
 		<name>Business Letters</name>
 		<description></description>
 		<version>1</version>
@@ -46,7 +46,7 @@
 	</data>
 	<data>
 		<id>5</id>
-		<priority>6</priority>
+		<priority>4</priority>
 		<name>Interview Questions</name>
 		<description></description>
 		<version>1</version>
