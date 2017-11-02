@@ -8,13 +8,11 @@
 	</version>
 	
 	<ads-banner>
-		<ads>
-			<type>ADMOB</type>
-			<ratio>2</ratio>
-			<app-id>ca-app-pub-3552119059192096/2397027369</app-id>
-			<location-support>true</location-support>
-		</ads>
 	</ads-banner>
+	<ads-interstitial>
+	</ads-interstitial>
+	<ads-video>
+	</ads-video>
 
 	<ads-myapp>
 		<ads>
